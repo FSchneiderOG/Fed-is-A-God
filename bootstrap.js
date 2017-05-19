@@ -40,7 +40,7 @@ const app = new Vue({
 				'First Post! Yay!', 		// this is the TITLE place in the class
 				'https://google.com',	// this is the LINK place in the class
 				'An Author',			// this is the AUTHOR place in the class
-				'https://unsplash.it/200',	// this is the IMAGE place in the class
+				'http://www.comedycake.com/wp-content/themes/patterns/timthumb.php?src=http%3A%2F%2Fwww.comedycake.com%2Fwp-content%2Fuploads%2F2015%2F01%2FBirdUpEricAndre.png&q=90&w=650&zc=1',	// this is the IMAGE place in the class
 				'Lorem ipsum dolor sit amet, consectetur.' // this is the BODY place in the class
 				),
 
@@ -48,7 +48,7 @@ const app = new Vue({
 				'Second Post: Lorem',
 				'https://vuejs.org',
 				'Sammie Author',
-				'img-200.jpg', // this is a local image in the same folder as the js script
+				'http://68.media.tumblr.com/1bcbaf43cdd5fa9623987700c0b5200b/tumblr_niq2rfSt3U1ryw9fko4_400.gif', // this is a local image in the same folder as the js script
 				'This has a local image. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi viverra euismod euismod. Nulla leo est, venenatis at fringilla eget, tincidunt sed justo. In efficitur dui odio, sit amet finibus sem hendrerit ut. Etiam vestibulum sem vel metus lobortis, vitae dictum metus sagittis. Nulla facilisi. '
 				),
 
@@ -56,7 +56,7 @@ const app = new Vue({
 				'This Post: Crazy Fredrick',
 				'https://google.com',
 				'Bob Author',
-				'https://unsplash.it/200',
+				'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-4OsJJG7Nz25qDH06NSLY2-OppwZ0xyNHK1Wp2Zo3QLdg8mWt4g',
 				'Crazy Fredrick bought many very exquisite opal jewels.'
 				),
 
@@ -64,7 +64,7 @@ const app = new Vue({
 				'Another Post: promptly judged',
 				'https://vuejs.org',
 				'Jane Author',
-				'https://unsplash.it/200',
+				'https://media.tenor.co/images/06681b2ec4eb5ac1873c90d01f9a097e/tenor.gif',
 				'We promptly judged antique ivory buckles for the next prize.'
 				),
 
