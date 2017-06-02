@@ -37,43 +37,43 @@ const app = new Vue({
 		postlist: [
 			// constructed Post item
 			new Post(
-				'First Post! Yay!', 		// this is the TITLE place in the class
+				'Fidget Spinner VS Fidget Sinner', 		// this is the TITLE place in the class
 				'https://google.com',	// this is the LINK place in the class
-				'An Author',			// this is the AUTHOR place in the class
+				'Your Friendly Neighborhood Spiderman',			// this is the AUTHOR place in the class
 				'http://www.comedycake.com/wp-content/themes/patterns/timthumb.php?src=http%3A%2F%2Fwww.comedycake.com%2Fwp-content%2Fuploads%2F2015%2F01%2FBirdUpEricAndre.png&q=90&w=650&zc=1',	// this is the IMAGE place in the class
-				'Lorem ipsum dolor sit amet, consectetur.' // this is the BODY place in the class
+				'BOB BIBB IS ACTUALLY A GOD' // this is the BODY place in the class
 				),
 
 			new Post(
-				'Second Post: Lorem',
+				'Second Post: a waste of your time',
 				'https://vuejs.org',
-				'Sammie Author',
+				'Tom Cruise',
 				'http://68.media.tumblr.com/1bcbaf43cdd5fa9623987700c0b5200b/tumblr_niq2rfSt3U1ryw9fko4_400.gif', // this is a local image in the same folder as the js script
-				'This has a local image. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi viverra euismod euismod. Nulla leo est, venenatis at fringilla eget, tincidunt sed justo. In efficitur dui odio, sit amet finibus sem hendrerit ut. Etiam vestibulum sem vel metus lobortis, vitae dictum metus sagittis. Nulla facilisi. '
+				'When you get confused and accidentently feed the food you just microwaved to the dog instead of yourself'
 				),
 
 			new Post(
-				'This Post: Crazy Fredrick',
+				'This Post: Enjoy Your Taco Hombre!',
 				'https://google.com',
-				'Bob Author',
+				'Danny Trejo',
 				'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-4OsJJG7Nz25qDH06NSLY2-OppwZ0xyNHK1Wp2Zo3QLdg8mWt4g',
-				'Crazy Fredrick bought many very exquisite opal jewels.'
+				'Please enjoy this beautiful picture of the Machete enjoying a real authentic Mexican taco while shirtless'
 				),
 
 			new Post(
-				'Another Post: promptly judged',
+				'You should just stop now',
 				'https://vuejs.org',
-				'Jane Author',
+				'IGN',
 				'https://media.tenor.co/images/06681b2ec4eb5ac1873c90d01f9a097e/tenor.gif',
-				'We promptly judged antique ivory buckles for the next prize.'
+				'Barbosa dies at the end of the new Pirates of the Caribbean'
 				),
 
 			new Post(
-				'Last Post: Jaded zombies',
+				'fLy LiKe An EaGlE',
 				'https://google.com',
-				'Anptoght Author',
-				'#',
-				'Jaded zombies acted quaintly but kept driving their oxen forward.'
+				'Grigori Rasputin',
+				'bg.png',
+				'Den HÄR ass stolz'
 				)
 		]
 	},
