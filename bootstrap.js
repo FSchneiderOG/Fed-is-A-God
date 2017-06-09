@@ -38,7 +38,7 @@ const app = new Vue({
 			// constructed Post item
 			new Post(
 				'Fidget Spinner VS Fidget Sinner', 		// this is the TITLE place in the class
-				'https://google.com',	// this is the LINK place in the class
+				'https://www.amazon.com/Optimum-Anxiety-Spinner-3-Wings-Reducing/dp/B072FT3H2Y/ref=sr_1_2?s=toys-and-games&ie=UTF8&qid=1497029848&sr=1-2&keywords=fidget+spinner+devil',	// this is the LINK place in the class
 				'Your Friendly Neighborhood Spiderman',			// this is the AUTHOR place in the class
 				'http://www.comedycake.com/wp-content/themes/patterns/timthumb.php?src=http%3A%2F%2Fwww.comedycake.com%2Fwp-content%2Fuploads%2F2015%2F01%2FBirdUpEricAndre.png&q=90&w=650&zc=1',	// this is the IMAGE place in the class
 				'BOB BIBB IS ACTUALLY A GOD' // this is the BODY place in the class
@@ -46,7 +46,7 @@ const app = new Vue({
 
 			new Post(
 				'Second Post: a waste of your time',
-				'https://vuejs.org',
+				'http://www.trump.com',
 				'Tom Cruise',
 				'http://68.media.tumblr.com/1bcbaf43cdd5fa9623987700c0b5200b/tumblr_niq2rfSt3U1ryw9fko4_400.gif', // this is a local image in the same folder as the js script
 				'When you get confused and accidentently feed the food you just microwaved to the dog instead of yourself'
@@ -54,7 +54,7 @@ const app = new Vue({
 
 			new Post(
 				'This Post: Enjoy Your Taco Hombre!',
-				'https://google.com',
+				'http://www.theuselessweb.com',
 				'Danny Trejo',
 				'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-4OsJJG7Nz25qDH06NSLY2-OppwZ0xyNHK1Wp2Zo3QLdg8mWt4g',
 				'Please enjoy this beautiful picture of the Machete enjoying a real authentic Mexican taco while shirtless'
@@ -62,7 +62,7 @@ const app = new Vue({
 
 			new Post(
 				'You should just stop now',
-				'https://vuejs.org',
+				'http://roblox.com',
 				'IGN',
 				'https://media.tenor.co/images/06681b2ec4eb5ac1873c90d01f9a097e/tenor.gif',
 				'Barbosa dies at the end of the new Pirates of the Caribbean'
@@ -70,7 +70,7 @@ const app = new Vue({
 
 			new Post(
 				'fLy LiKe An EaGlE',
-				'https://google.com',
+				'https://www.youtube.com/watch?v=2olftCqlw4Q',
 				'Grigori Rasputin',
 				'bg.png',
 				'Den HÄR ass stolz'
